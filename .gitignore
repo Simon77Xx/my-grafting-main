@@ -1,0 +1,9 @@
+# 实验结果数据（json / scores / 深度集成中间产物），不属代码
+results*/
+# python 运行产物
+__pycache__/
+*.py[cod]
+*.egg-info/
+# 临时
+*.log
+nohup.out
